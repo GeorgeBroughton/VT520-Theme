@@ -1,0 +1,66 @@
+#window { /*The name of the window itself.*/
+	background: #000000;
+	color:      #FF8503;
+}
+
+#outer-box {/*The name of the box that contains everything.*/
+	background: #000000;
+	color:      #FF8503;
+	border:     3px solid #FF8503;
+
+}
+#input { /*The name of the search bar.*/
+	background: #000000;
+	color:      #FF8503;
+	border:     none;
+	border-bottom: 3px solid #FF8503;
+	border-radius: 0;
+	fill:       #FF8503;
+}
+
+#scroll { /*The name of the scrolled window containing all of the entries.*/
+	background: #000000;
+	color:      #FF8503;
+
+}
+
+#inner-box { /*The name of the box containing all of the entries.*/
+	background: #000000;
+	color:      #FF8503;
+
+}
+
+#img { /*The name of all images in entries displayed in image mode.*/
+	background: #000000;
+	color:      #FF8503;
+
+}
+
+#text { /*The name of all the text in entries.*/
+	background: #000000;
+	color:      #FF8503;
+
+}
+
+#unselected { /*The name of all entries currently unselected. A better way of doing this is  to  do
+              #entry and combine that with #entry:selected*/
+	background: #000000;
+	color:      #FF8503;
+
+}
+
+#selected { /*The  name  of  all  entries currently selected. A better way of doing this is to do
+            #entry:selected*/
+	background: #000000;
+	color:      #FF8503;
+
+}
+
+#entry { /*The name of all entries.*/
+	background:  #000000;
+	color:       #FF8503;
+	margin-top:  3px;
+	padding:     5px;
+	border-left: 3px solid #FF8503;
+}
+

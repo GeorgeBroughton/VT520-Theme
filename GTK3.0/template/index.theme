@@ -1,0 +1,11 @@
+[X-GNOME-Metatheme]
+Name=VT520
+Comment=A theme to immitate a Digital VT-520 amber terminal
+
+Type=X-GNOME-Metatheme
+Encoding=UTF-8
+#GtkTheme=VT520
+#MetacityTheme=VT520
+#IconTheme=VT520
+#CursorTheme=VT520
+#CursorSize=24
